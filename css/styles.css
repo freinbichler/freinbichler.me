@@ -2,13 +2,19 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  background: rgb(39, 42, 50);
+  background: rgb(61, 67, 79);
   color: #EEE;
 }
 
 div#content {
-  margin-top: 20%;
+  margin-top: 10%;
   text-align: center;
+}
+
+div#content img {
+  width: 10%;
+  min-width: 100px;
+  margin-bottom: 5%;
 }
 
 div#name {
