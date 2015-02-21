@@ -1,29 +1,100 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background: rgb(61, 67, 79);
   color: #EEE;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 10px;
+  padding-bottom: 30px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 div#content {
-  margin-top: 10%;
+  margin: 0 auto;
+  margin-top: 5%;
   text-align: center;
+  width: 100%;
+  max-width: 550px;
 }
 
-div#content img {
-  width: 10%;
-  min-width: 100px;
-  margin-bottom: 5%;
+div#content img#logo {
+  width: 17%;
+  min-width: 70px;
+  margin-bottom: 30px;
 }
 
-div#name {
+h1#name {
+  font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
-  font-size: 24px;
-  font-weight: 300;
-  letter-spacing: 8px;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
 }
 
-div#comingsoon {
-  margin-top: 30px;
+h2 {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 2px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+h2#jobtitle {
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+div#socialicons {
+  margin: 20px 0;
+}
+
+div#socialicons img {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+  transition: all .3s;
+  position: relative;
+}
+
+div#socialicons img:hover {
+  -moz-transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+@media screen and (min-width: 700px) {
+  div#content img#logo {
+    margin-bottom: 50px;
+  }
+
+  h1#name {
+    font-size: 24px;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
+    font-weight: 300;
+  }
+
+  h2 {
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 300;
+  }
 }
