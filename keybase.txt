@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/marcel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://freinbichler.me
+  * I am marcel (https://keybase.io/marcel) on keybase.
+  * I have a public key with fingerprint E974 DAA9 3A5E 68CA 9C4E  81D9 F9D2 5D01 3CDE E70A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.5"
+        },
+        "key": {
+            "fingerprint": "e974daa93a5e68ca9c4e81d9f9d25d013cdee70a",
+            "host": "keybase.io",
+            "key_id": "F9D25D013CDEE70A",
+            "uid": "a05e198b3baaa68d897705726519c800",
+            "username": "marcel"
+        },
+        "merkle_root": {
+            "ctime": 1425426738,
+            "hash": "2ac41e1561072f9557d67f997e909173cbb8664091979d6aa02d54093ed037bf4e62eb2149bf559a4d3f8adfdacc8df1ba9b32f6d98c5765a9f30e03a96c4f3a",
+            "seqno": 170785
+        },
+        "service": {
+            "hostname": "freinbichler.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1425426777,
+    "expire_in": 157680000,
+    "prev": "b9385696521572818a4321553f933b65a4acfd45420efc1b2322e80304fc43c0",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkl1sVEUYhncrWnetoZREo6A2xyiNbDYzZ86cmanGaGyrNaRNColoUtf5+U57
+YPec5ey2bil7iQa9If7QK29UNEZjjYAXKoVESyMkhpCovQAjMRWVihFIQy8Mzmlq
+/Ln7Zr5n3nnfb2b/rTdk8tnlM8PZh76/kM+e+kVlti31Pz3pqNhMON2Tji6HENXT
+KpIVcLqdnTChZA2KYdwZxQaKO2qdq0zBGYekFsaRpVCRFanTLKR4ejgIoxFIqkmY
+ajkgmGekFERS8LmWQnvAsRGBMC41CBNtABiSVnI0rtX/c6uzolkKjd3tEz0u7bH8
+Yz29vQw9antjKw2JKGDBFVFSSp8bLhhDlLk+xUJzhFKwBslqpIpMNJRTtxVIdpah
+lMTxSmRdD1MAey71XJ8Rbv3I2qg94krtYcDUx4i5gaCUGZ8FQjAQSGBGtFLc9z1b
+CyaMLyVyDbVLAgYRpgIPfBeUiz2hAkqF9AwJuDSBkVpzE2AlhSJu4BvBNWU+lSIg
+CBCRwtdeQNLJ1GBXFFtzDDFOm+k6GQ81pL7Toa1mCxIIIxXq0TIkRbtTcKpJXI91
+XLbN0Xq92p3mrk9UU/h5UB+WVnVKKoyMfbV/Pyu26P9mwljBgUY1TKAUpoQ1a+eL
+UHoPjFtNJQinvvCpa3sux1x6xJaUBIIQZZN5UgfGs2IIAo2VS1wXOCLIC7RHNPon
+KbU+5YiVrIUjkayPJeA092U3rslk85mbbmxJ/20mn2v/+zPPv9B6XU69dPa9k483
+dk915itta48X5t45yH4euNrBj9W3XD5y81r5wOylDZc/OXp/7pG3Z52Xl94auK95
+bkgdXHdv7twx/P5TB6afPdE1PzlzfuxNnvR5n5XvXLzWOvP54PD5Z36VLVdePDJ5
+aN1g19ThPQ+e3vTdwwtfD97Rhn97t7S9Zfhq194K+/Tbiwf62xtPLogB8c1dOHdm
+6bbnsm0d1WkSfbW43Lj95NzdFZ9uvNTRvqF3cW4HXr/5lS1tcEvzY3S9+OMPF/uL
+hze/etxBa5z5L/6YakzPbNp+9EKpdWtl6/pTT+Rmd/10ZWjhgz1nD+1umNP7pq/d
+MyQ+2vvattd/X97/5Ruk78/kxF8=
+=NPAt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marcel
+
+==================================================================
