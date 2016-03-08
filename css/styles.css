@@ -44,6 +44,15 @@ div#content img#logo {
   margin-bottom: 30px;
 }
 
+div#footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  padding: 10px 0;
+}
+
 h1#name {
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
