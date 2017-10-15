@@ -17,7 +17,6 @@ body {
   font-size: 14px;
   line-height: 1.5;
   padding: 10px;
-  padding-bottom: 60px;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -45,13 +44,8 @@ div#content img#logo {
 }
 
 div#footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
   text-align: center;
-  width: 100%;
-  padding: 10px 0;
-  background: rgb(61, 67, 79)
+  margin: 80px 0 10px;
 }
 
 h1#name {
